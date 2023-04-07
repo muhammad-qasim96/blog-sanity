@@ -6,6 +6,6 @@ module.exports = {
   },
   plugins: [require("prettier-plugin-tailwindcss")],
   images: {
-    domains: ["miro.medium.com", "cdn.pixabay.com"],
+    domains: ["miro.medium.com", "cdn.pixabay.com", "cdn.sanity.io"],
   },
 };
